@@ -4,12 +4,13 @@
     mind horizontálisan legyen középre igazítva minden nézetben
 - A háttérszín pontosan 1 képernyő széles és magas legyen minden nézetben
 - Használd a Cyberverse betűtípust
-- A betűméretet te választhatod meg*/
+- A betűméretet te választhatod meg
+*/
 
 @font-face {
     font-family: "cyberverse";
     src: url("fonts/Cyberverse.otf");
-  }
+}
 
 .box {
     display: flex;
